@@ -1,0 +1,9 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+button {
+  display: block;
+  margin: 1em;
+}
